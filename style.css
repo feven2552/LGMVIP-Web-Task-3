@@ -1,0 +1,37 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding:0;
+    margin:0;
+    border:0
+}
+
+table{
+	margin-top: 50px;
+	margin-bottom: 150px;
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+	background: #f1f0f0;
+	color: #060606;
+}
+
+#header-msg{
+    font-size: 35px;
+    color:#000;
+}
+::shadow{
+	text-align: center;
+}
+
+#show th, #show td{
+	padding: 23px;
+	border: 10px;
+	border-top: 30px;
+	border-bottom: 30px;
+	border-left: 30px;
+	border-right: 60px;
+}
+
+#btna td input{
+	width: 100%;
+}
